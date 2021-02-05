@@ -1,0 +1,1362 @@
+﻿Log file open, 01/31/21 12:07:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CrystalCavern
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.446270
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.31-09.07.01:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.31-09.07.01:158][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:158][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:168][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:168][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-09.07.01:168][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-09.07.01:168][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-09.07.01:169][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-09.07.01:170][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-09.07.01:170][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-09.07.01:170][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.31-09.07.01:171][  0]LogHAL: Display: Platform has ~ 16 GB [17138688000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.31-09.07.01:171][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.31-09.07.01:171][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-09.07.01:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-09.07.01:172][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.31-09.07.01:173][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
+[2021.01.31-09.07.01:173][  0]LogInit: Computer: OSHUGAN
+[2021.01.31-09.07.01:173][  0]LogInit: User: garaa
+[2021.01.31-09.07.01:173][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.31-09.07.01:174][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.31-09.07.01:174][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.01.31-09.07.01:174][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.31-09.07.01:174][  0]LogMemory: Process Physical Memory: 136.83 MB used, 136.83 MB peak
+[2021.01.31-09.07.01:174][  0]LogMemory: Process Virtual Memory: 118.62 MB used, 118.62 MB peak
+[2021.01.31-09.07.01:174][  0]LogMemory: Physical Memory: 7521.62 MB used,  8823.11 MB free, 16344.73 MB total
+[2021.01.31-09.07.01:174][  0]LogMemory: Virtual Memory: 134209872.00 MB used,  7857.05 MB free, 134217728.00 MB total
+[2021.01.31-09.07.01:183][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.31-09.07.01:224][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.31-09.07.01:226][  0]LogInit: Using OS detected language (ru-RU).
+[2021.01.31-09.07.01:226][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.01.31-09.07.01:231][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.01.31-09.07.01:231][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.01.31-09.07.01:231][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.01.31-09.07.01:231][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.01.31-09.07.01:232][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.01.31-09.07.01:232][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.01.31-09.07.01:232][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.01.31-09.07.01:232][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.01.31-09.07.01:234][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.31-09.07.01:254][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-09.07.01:297][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.31-09.07.01:297][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.31-09.07.01:672][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-09.07.01:672][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.31-09.07.01:672][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.31-09.07.01:672][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.31-09.07.01:756][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2021.01.31-09.07.01:756][  0]LogD3D11RHI:       8171/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.01.31-09.07.01:759][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.31-09.07.01:759][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.31-09.07.01:759][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.31-09.07.01:769][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.31-09.07.01:769][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.01.31-09.07.01:769][  0]LogWindows: EnumDisplayDevices:
+[2021.01.31-09.07.01:769][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2021.01.31-09.07.01:770][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:770][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:771][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:771][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:772][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:772][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:773][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.01.31-09.07.01:773][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.01.31-09.07.01:773][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2021.01.31-09.07.01:773][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.12.1 (internal:27.20.14501.28009, unified:27.20.14501.28009)
+[2021.01.31-09.07.01:773][  0]LogD3D11RHI:      Driver Date: 12-4-2020
+[2021.01.31-09.07.01:773][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.01.31-09.07.01:879][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.31-09.07.01:879][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.31-09.07.01:879][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.31-09.07.01:895][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.01.31-09.07.02:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.31-09.07.02:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.31-09.07.02:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.31-09.07.02:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.31-09.07.02:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.31-09.07.02:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.31-09.07.02:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.31-09.07.02:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.31-09.07.02:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.31-09.07.02:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.31-09.07.02:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.31-09.07.02:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.31-09.07.02:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.31-09.07.02:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.31-09.07.02:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.31-09.07.02:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.31-09.07.02:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.31-09.07.02:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.31-09.07.02:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.31-09.07.02:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.31-09.07.02:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.31-09.07.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.31-09.07.02:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.31-09.07.02:908][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.31-09.07.02:926][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.31-09.07.03:034][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.31-09.07.03:034][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../Unreal/CrystalCavern/Intermediate/Shaders/WorkingDirectory/9200/).
+[2021.01.31-09.07.03:034][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/garaa/AppData/Local/Temp/UnrealShaderWorkingDir/C6374FEA433933E3B21690B8CF39C523/'.
+[2021.01.31-09.07.03:035][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.31-09.07.03:035][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.31-09.07.04:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/garaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/garaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/CrystalCavern/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/CrystalCavern/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-09.07.04:637][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.31-09.07.04:655][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.31-09.07.04:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-09.07.04:655][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.31-09.07.04:680][  0]LogDerivedDataCache: Speed tests for C:/Users/garaa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.01.31-09.07.04:680][  0]LogDerivedDataCache: Display: Performance to C:/Users/garaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=700.70MBs, RandomWriteSpeed=39.90MBs. Assigned SpeedClass 'Local'
+[2021.01.31-09.07.04:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/garaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.31-09.07.04:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.31-09.07.04:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.31-09.07.04:749][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.31-09.07.04:750][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.31-09.07.04:787][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2021.01.31-09.07.05:142][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-09.07.05:142][  0]LogInit: Active device profile: [000002617175DF00][0000026170CDA540 49] Windows
+[2021.01.31-09.07.05:142][  0]LogInit: Profiles: [000002617175DF00][0000026170CDA540 49] Windows, [0000026171772300][0000026170CE26C0 49] WindowsNoEditor, [000002617175FA00][0000026170CE6840 49] WindowsServer, [0000026171770800][0000026170CEA9C0 49] WindowsClient, [000002617175C900][0000026170CEEB40 49] IOS, [0000026171773A00][0000026170CF2CC0 49] iPadAir, [000002617175D600][0000026170CF6E40 49] iPadAir2, [0000026171717600][0000026170CFF100 49] IPadPro, [0000026171717700][0000026170CFB140 49] iPadAir3, [000002617175D300][0000026170D032C0 49] iPadAir4, [0000026171717900][0000026170D07440 49] iPadMini2, [000002617175E200][0000026170CDF580 49] iPadMini3, [0000026171716400][0000026170D0B6C0 49] iPadMini4, [000002617175FE00][0000026171D21800 49] iPadMini5, [000002617171AE00][0000026171D2DA80 49] iPhone6, [000002617171AF00][0000026171D25AC0 49] iPodTouch6, [0000026171717F00][0000026171D340C0 49] iPhone7, [0000026171717500][0000026171D30100 49] iPodTouch7, [000002617171A700][0000026171D38280 49] iPhone5S, [0000026171717300][0000026171D3C400 49] iPhone6Plus, [000002617171BE00][0000026171D40580 49] iPhone6S, [0000026171715100][0000026171D44700 49] iPhone6SPlus, [000002617171A900][0000026171D48880 49] iPhone7Plus, [0000026171717800][0000026171D4CA00 49] iPhoneSE, [000002617171B000][0000026171D50B80 49] iPhone8, [0000026171717400][0000026171D54D00 49] iPhone8Plus, [0000026171719F00][0000026171D58E80 49] iPhoneX, [0000026171715B00][0000026171D5D000 49] iPhoneXS, [0000026171718600][0000026171D61180 49] iPhoneXSMax, [0000026171714200][0000026171D65300 49] iPhoneXR, [000002617171B400][0000026171D69480 49] iPhone11, [0000026171715400][0000026171D6D600 49] iPhone11Pro, [0000026171718800][0000026171D29740 49] iPhone11ProMax, [0000026171714900][0000026171D71880 49] iPhoneSE2, [0000026171719C00][0000026171D759C0 49] iPhone12Mini, [0000026171715D00][0000026171D7DB40 49] iPhone12, [0000026171719600][0000026171D81CC0 49] iPhone12Pro, [0000026171717000][0000026171D84180 49] iPhone12ProMax, [0000026171719100][0000026171D88300 49] iPadPro105, [0000026171714700][0000026171D8C480 49] iPadPro129, [000002617171AB00][0000026171D90600 49] iPadPro97, [0000026171716700][0000026171D94780 49] iPadPro2_129, [0000026171717A00][0000026171D98900 49] iPad5, [0000026171771900][0000026171D9CA80 49] iPad6, [0000026171717B00][0000026171DA0C00 49] iPad7, [0000026171772200][0000026171DA4D80 49] iPad8, [0000026171714E00][0000026171DBAF00 49] iPadPro11, [0000026171772700][0000026171DBF080 49] iPadPro2_11, [0000026171715800][0000026171DC7200 49] iPadPro3_129, [0000026171773000][0000026171DD7380 49] iPadPro4_129, [0000026171773600][0000026171DFB500 49] AppleTV, [000002617171AC00][0000026171DFF680 49] AppleTV4K, [0000026171770700][0000026171D797C0 49] TVOS, [000002617171B800][0000026171E03900 49] Mac, [0000026171770A00][0000026171E07A40 49] MacClient, [0000026171718700][0000026171E13B80 49] MacNoEditor, [0000026171773200][0000026171E1BD00 49] MacServer, [0000026171719000][0000026171E1E1C0 49] Linux, [0000026171773500][0000026171E2A340 49] LinuxNoEditor, [0000026171719D00][0000026171E2E4C0 49] LinuxAArch64NoEditor, [0000026171715F00][0000026171E32640 49] LinuxClient, [0000026171718900][0000026171E407C0 49] LinuxAArch64Client, [0000026171714B00][0000026171E50940 49] LinuxServer, [000002617171A000][0000026171E54AC0 49] LinuxAArch64Server, [0000026171716100][0000026171E58C40 49] Android, [0000026171718400][0000026171E5CDC0 49] Android_Low, [0000026171716C00][0000026171E60F40 49] Android_Mid, [000002617171A800][0000026171E650C0 49] Android_High, [0000026171717100][0000026171E69240 49] Android_Default, [000002617171BA00][0000026171E853C0 49] Android_Adreno4xx, [0000026171714500][0000026171E89540 49] Android_Adreno5xx_Low, [000002617171B300][0000026171E8D6C0 49] Android_Adreno5xx, [0000026171714F00][0000026171E17800 49] Android_Adreno6xx, [0000026171718200][0000026171E91940 49] Android_Adreno6xx_Vulkan, [0000026171716000][0000026171E95A80 49] Android_Mali_T6xx, [000002617171B900][0000026171EB9BC0 49] Android_Mali_T7xx, [0000026171717C00][0000026171EC1D40 49] Android_Mali_T8xx, [000002617171B700][0000026171EC4200 49] Android_Mali_G71, [0000026171716900][0000026171EC8380 49] Android_Mali_G72, [0000026171719B00][0000026171ECC500 49] Android_Mali_G72_Vulkan, [0000026171717E00][0000026171ED0680 49] Android_Mali_G76, [0000026171718F00][0000026171ED4800 49] Android_Mali_G76_Vulkan, [0000026171714300][0000026171ED8980 49] Android_Mali_G77, [000002617171A300][0000026171EDCB00 49] Android_Mali_G77_Vulkan, [0000026171714C00][0000026171EE0C80 49] Android_Vulkan_SM5, [000002617171BB00][0000026171F10E00 49] Android_PowerVR_G6xxx, [0000026171714400][0000026171F14F80 49] Android_PowerVR_GT7xxx, [000002617171A100][0000026171F19100 49] Android_PowerVR_GE8xxx, [0000026171716F00][0000026171F1D280 49] Android_PowerVR_GM9xxx, [000002617171A500][0000026171F21400 49] Android_PowerVR_GM9xxx_Vulkan, [0000026171716300][0000026171F25580 49] Android_TegraK1, [000002617171AA00][0000026171F29700 49] Android_Unknown_Vulkan, [0000026171715700][0000026171F2D880 49] Lumin, [000002617171AD00][0000026171EBD9C0 49] Lumin_Desktop, [0000026171716B00][0000026171F31B00 49] HoloLens, 
+[2021.01.31-09.07.05:334][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.31-09.07.05:334][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.31-09.07.05:334][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.31-09.07.05:334][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.31-09.07.05:334][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.31-09.07.05:368][  0]LogNetVersion: CrystalCavern 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 637716038)
+[2021.01.31-09.07.05:990][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.31-09.07.06:057][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.066581 seconds
+[2021.01.31-09.07.06:064][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.31-09.07.06:064][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.31-09.07.06:064][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.31-09.07.06:750][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.31-09.07.06:757][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.31-09.07.06:959][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.06:959][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.06:965][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.06:971][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.07:013][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.07:090][  0]LogUProjectInfo: Found projects:
+[2021.01.31-09.07.07:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.31-09.07.07:454][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-09.07.07:455][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-09.07.07:569][  0]LogCollectionManager: Loaded 0 collections in 0.002529 seconds
+[2021.01.31-09.07.07:670][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/CrystalCavern/Saved/Collections/' took 0.00s
+[2021.01.31-09.07.07:670][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/CrystalCavern/Content/Developers/garaa/Collections/' took 0.00s
+[2021.01.31-09.07.07:670][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/CrystalCavern/Content/Collections/' took 0.00s
+[2021.01.31-09.07.07:670][  0]LogOcInput: OculusInput pre-init called
+[2021.01.31-09.07.07:687][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.31-09.07.07:687][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.31-09.07.07:758][  0]LogEngine: Initializing Engine...
+[2021.01.31-09.07.07:760][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-09.07.07:760][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.31-09.07.07:761][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.31-09.07.07:921][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.31-09.07.07:931][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.31-09.07.07:956][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.31-09.07.07:961][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.31-09.07.07:961][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.31-09.07.07:961][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-09.07.07:962][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-09.07.07:962][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-09.07.07:962][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-09.07.07:984][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-09.07.07:985][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-09.07.08:075][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.01.31-09.07.08:082][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-09.07.08:085][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-09.07.08:085][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-09.07.08:087][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-09.07.08:087][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-09.07.08:087][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-09.07.08:088][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-09.07.08:088][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-09.07.08:088][  0]LogInit: FAudioDevice initialized.
+[2021.01.31-09.07.08:089][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.31-09.07.08:089][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.31-09.07.08:291][  0]LogDerivedDataCache: Saved boot cache 0.20s 77MB C:/Users/garaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-09.07.08:292][  0]LogInit: Texture streaming: Enabled
+[2021.01.31-09.07.08:310][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.31-09.07.08:327][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.31-09.07.08:327][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.31-09.07.08:330][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.31-09.07.08:367][  0]LogInit: Transaction tracking system initialized
+[2021.01.31-09.07.08:399][  0]BlueprintLog: New page: Editor Load
+[2021.01.31-09.07.08:525][  0]LocalizationService: Localization service is disabled
+[2021.01.31-09.07.08:563][  0]TimingProfiler: Initialize
+[2021.01.31-09.07.08:563][  0]TimingProfiler: OnSessionChanged
+[2021.01.31-09.07.08:563][  0]LoadingProfiler: Initialize
+[2021.01.31-09.07.08:563][  0]LoadingProfiler: OnSessionChanged
+[2021.01.31-09.07.08:563][  0]NetworkingProfiler: Initialize
+[2021.01.31-09.07.08:563][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.31-09.07.08:563][  0]MemoryProfiler: Initialize
+[2021.01.31-09.07.08:563][  0]MemoryProfiler: OnSessionChanged
+[2021.01.31-09.07.08:755][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.31-09.07.08:755][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.31-09.07.09:065][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal/CrystalCavern/Content/' took 0.01s
+[2021.01.31-09.07.09:373][  0]SourceControl: Source control is disabled
+[2021.01.31-09.07.09:373][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.381
+[2021.01.31-09.07.09:373][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-09.07.09:374][  0]LightingResults: New page: Lighting Build
+[2021.01.31-09.07.09:375][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.07.09:375][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.07.09:375][  0]MapCheck: New page: Map Check
+[2021.01.31-09.07.09:375][  0]LightingResults: New page: Lighting Build
+[2021.01.31-09.07.09:390][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.31-09.07.09:624][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.01.31-09.07.09:626][  0]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.07.09:652][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-09.07.09:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.31-09.07.09:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-09.07.09:678][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,186ms to complete.
+[2021.01.31-09.07.09:678][  0]LogFileHelpers: Loading map 'Level1' took 0.305
+[2021.01.31-09.07.09:681][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.689
+[2021.01.31-09.07.09:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.07.09:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.07.09:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.07.09:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.07.09:869][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0150 seconds. Added 3648 classes and 890 folders.
+[2021.01.31-09.07.09:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.31-09.07.09:879][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-09.07.09:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-09.07.09:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.31-09.07.09:880][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-09.07.09:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-09.07.09:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.01.31-09.07.09:882][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.31-09.07.09:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.31-09.07.09:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.01.31-09.07.09:883][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-09.07.09:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-09.07.09:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.31-09.07.09:885][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-09.07.09:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-09.07.09:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.01.31-09.07.09:886][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-09.07.09:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-09.07.09:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.31-09.07.09:887][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-09.07.09:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-09.07.09:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.01.31-09.07.09:889][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-09.07.09:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-09.07.09:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.01.31-09.07.09:890][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-09.07.09:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-09.07.09:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.31-09.07.09:891][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-09.07.09:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-09.07.09:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.01.31-09.07.09:893][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-09.07.09:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-09.07.09:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.31-09.07.09:894][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-09.07.09:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-09.07.09:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.31-09.07.09:895][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-09.07.09:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-09.07.09:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.01.31-09.07.09:897][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-09.07.09:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-09.07.09:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.01.31-09.07.09:898][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-09.07.09:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-09.07.09:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.01.31-09.07.09:899][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-09.07.09:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-09.07.09:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.01.31-09.07.09:901][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-09.07.09:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-09.07.09:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.01.31-09.07.09:902][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-09.07.09:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-09.07.09:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.01.31-09.07.09:904][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-09.07.09:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-09.07.09:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.01.31-09.07.09:905][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-09.07.09:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-09.07.09:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.01.31-09.07.09:906][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-09.07.09:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-09.07.09:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.31-09.07.09:908][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-09.07.09:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-09.07.09:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.01.31-09.07.09:909][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.31-09.07.09:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.31-09.07.09:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.01.31-09.07.09:910][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-09.07.09:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-09.07.09:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.01.31-09.07.09:912][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-09.07.09:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-09.07.09:912][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.01.31-09.07.09:913][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-09.07.09:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-09.07.09:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-09.07.09:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.01.31-09.07.10:026][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.31-09.07.10:027][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.31-09.07.10:557][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.31-09.07.10:708][  0]LogSlate: Took 0.000416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.31-09.07.10:710][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.31-09.07.10:717][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.31-09.07.10:892][  0]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-09.07.11:623][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-09.07.11:809][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.31-09.07.11:809][  0]LogLoad: (Engine Initialization) Total time: 12.82 seconds
+[2021.01.31-09.07.11:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.31-09.07.11:809][  0]LogInit: First time updating LLM stats...
+[2021.01.31-09.07.11:875][  0]LogAssetRegistry: Asset discovery search completed in 7.0890 seconds
+[2021.01.31-09.07.11:877][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.01.31-09.07.11:924][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.31-09.08.53:589][ 73]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-09.08.53:598][ 73]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-09.08.56:560][384]LogConcert: Display: Server DESKTOP-0DQ23IK discovered.
+[2021.01.31-09.09.21:867][306]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2021.01.31-09.09.22:059][306]LogConcert: [Success] Launched Unreal Multi-User Server
+[2021.01.31-09.09.24:752][503]LogConcert: Display: Server DESKTOP-0DQ23IK lost.
+[2021.01.31-09.09.26:089][507]LogConcert: Display: Server OSHUGAN discovered.
+[2021.01.31-09.10.08:196][587]LogConcert: [Pending] Creating Session 'OshiCrystalCavern'...
+[2021.01.31-09.10.08:196][587]LogConcert: [Pending] Creating Session 'OshiCrystalCavern'... - Validating Workspace...
+[2021.01.31-09.10.08:201][587]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-09.10.08:566][591]LogConcert: [Pending] Creating Session 'OshiCrystalCavern'... - Attempting Remote Connection...
+[2021.01.31-09.10.08:790][594]SourceControl: Source control is disabled
+[2021.01.31-09.10.08:791][594]SourceControl: Source control is disabled
+[2021.01.31-09.10.09:535][594]LogMaterial: Display: Missing cached shader map for material M_CameraFacing, compiling. 
+[2021.01.31-09.10.09:706][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.31-09.10.09:706][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.31-09.10.09:706][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.31-09.10.09:706][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.31-09.10.09:706][594]LogConcert: Display: Initialized Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.10.09:707][594]LogConcert: Display: Connecting to Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.10.10:110][609]LogConcert: Display: Connected to Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.10.10:110][609]LogConcert: [Success] Created Session 'OshiCrystalCavern'
+[2021.01.31-09.10.10:175][614]LogConcert: Display: Synced activity '1' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan joined the session.
+[2021.01.31-09.10.28:181][499]LogConcert: Display: User 'vredn' (Endpoint: 3C2BD2FB477DFCB87BAE5492C4DAB194) joined Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.10.28:181][499]LogConcert: Display: Synced activity '2' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya joined the session.
+[2021.01.31-09.12.14:170][ 89]LogConcert: Display: Synced activity '3' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya discarded changes to package /Game/Levels/UEDPIE_0_Level1.
+[2021.01.31-09.12.29:383][900]LogConcert: Display: Synced activity '4' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.12.30:239][964]LogConcert: Display: Synced activity '5' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.13.57:258][318]LogConcert: Display: Synced activity '6' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.14.57:219][442]LogConcert: Display: Synced activity '7' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.15.00:063][749]LogConcert: Display: Synced activity '8' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.15.41:319][631]LogConcert: Display: Synced activity '9' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.03:501][246]LogConcert: Display: Synced activity '10' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.14:137][508]LogConcert: Display: Synced activity '11' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya created Polys_0 in /Game/Levels/Level1.
+[2021.01.31-09.16.14:176][508]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_0'
+[2021.01.31-09.16.16:682][800]LogConcert: Display: Synced activity '12' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya created Polys_2 in /Game/Levels/Level1.
+[2021.01.31-09.16.23:907][655]LogConcert: Display: Synced activity '13' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.38:409][380]LogConcert: Display: Synced activity '14' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.43:920][ 34]LogConcert: Display: Synced activity '15' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.46:541][341]LogConcert: Display: Synced activity '16' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya created Polys_3 in /Game/Levels/Level1.
+[2021.01.31-09.16.47:800][481]LogConcert: Display: Synced activity '17' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya deleted Polys_3 in /Game/Levels/Level1.
+[2021.01.31-09.16.48:994][617]LogConcert: Display: Synced activity '18' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.56:503][510]LogConcert: Display: Synced activity '19' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.57:153][585]LogConcert: Display: Synced activity '20' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya modified None in None, plus -1 other action.
+[2021.01.31-09.16.59:962][916]LogConcert: Display: Synced activity '21' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya created Polys_4 in /Game/Levels/Level1.
+[2021.01.31-09.17.02:875][258]LogConcert: Display: Synced activity '22' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya deleted Polys_4 in /Game/Levels/Level1.
+[2021.01.31-09.17.12:321][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.31-09.17.12:338][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Saved/Autosaves/Game/Levels/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.31-09.17.12:466][301]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_Auto17F9F745247F83D47C0BDCC9A8CD43672.tmp' to '../../../../../Unreal/CrystalCavern/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2021.01.31-09.17.12:515][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.211
+[2021.01.31-09.17.12:515][301]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.211
+[2021.01.31-09.22.40:742][463]LogEditorViewport: Clicking Background
+[2021.01.31-09.22.40:886][473]LogConcert: Display: Synced activity '23' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.22.41:285][507]LogEditorViewport: Clicking Background
+[2021.01.31-09.22.41:791][567]LogEditorViewport: Clicking on Actor (LMB): BP_LevelRestartTrigger_C (BP_LevelRestartTrigger)
+[2021.01.31-09.22.42:499][635]LogEditorViewport: Clicking Background
+[2021.01.31-09.23.34:320][795]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-09.23.34:375][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-09.23.34:440][795]PIE: New page: PIE session: Level1 (31 янв. 2021 г., 15:23:34)
+[2021.01.31-09.23.34:443][795]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.31-09.23.34:456][795]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.31-09.23.34:469][795]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.23.34:484][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014645s)
+[2021.01.31-09.23.34:486][795]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.23.34:487][795]LogPlayLevel: PIE: World Init took: (0.002820s)
+[2021.01.31-09.23.34:505][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.035914s)
+[2021.01.31-09.23.34:523][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.01.31-09.23.34:558][795]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-09.23.34:558][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-09.23.34:558][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-09.23.34:559][795]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-09.23.34:559][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-09.23.34:567][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-09.23.34:567][795]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-09.23.34:596][795]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.01.31-09.23.34:596][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-09.23.34:596][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-09.23.34:596][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-09.23.34:597][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-09.23.34:597][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-09.23.34:597][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-09.23.34:624][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-09.23.34:624][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-09.23.34:624][795]LogInit: FAudioDevice initialized.
+[2021.01.31-09.23.34:624][795]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.01.31-09.23.34:663][795]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.31-09.23.34:724][795]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.31-12.23.34
+[2021.01.31-09.23.34:737][795]LogWorld: Bringing up level for play took: 0.002893
+[2021.01.31-09.23.34:755][795]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.01.31-09.23.34:804][795]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.31-09.23.34:929][795]PIE: Server logged in
+[2021.01.31-09.23.34:941][795]PIE: Play in editor total start time 0,598 seconds.
+[2021.01.31-09.23.38:035][139]LogNet: Browse: /Game/Levels/Level1
+[2021.01.31-09.23.38:040][139]LogLoad: LoadMap: /Game/Levels/Level1
+[2021.01.31-09.23.38:040][139]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.23.38:041][139]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.23.38:042][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.23.38:057][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-09.23.38:061][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.01.31-09.23.38:065][139]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.23.38:073][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007724s)
+[2021.01.31-09.23.38:074][139]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.23.38:075][139]LogPlayLevel: PIE: World Init took: (0.002259s)
+[2021.01.31-09.23.38:075][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010155s)
+[2021.01.31-09.23.38:075][139]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.01.31-09.23.38:075][139]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.31-09.23.38:077][139]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.31-12.23.38
+[2021.01.31-09.23.38:077][139]LogWorld: Bringing up level for play took: 0.001286
+[2021.01.31-09.23.38:087][139]LogLoad: Took 0.046740 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2021.01.31-09.23.40:653][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.23.40:653][434]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.23.40:653][434]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.23.40:653][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.23.40:676][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-09.23.40:678][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.23.40:693][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.23.40:694][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-09.23.40:695][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-09.23.40:728][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.31-09.23.40:763][435]LogConcert: Display: Synced activity '24' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan discarded changes to package /Game/Levels/UEDPIE_0_Level1.
+[2021.01.31-09.23.40:770][435]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.31-09.26.22:204][858]LogConcert: Display: Synced activity '25' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya discarded changes to package /Game/Levels/UEDPIE_0_Level1.
+[2021.01.31-09.26.23:878][ 52]LogConcert: Display: Synced activity '26' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya saved package /Game/Levels/Level1.
+[2021.01.31-09.26.23:889][ 52]LightingResults: New page: Lighting Build
+[2021.01.31-09.26.23:935][ 52]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.26.23:935][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.26.23:935][ 52]MapCheck: New page: Map Check
+[2021.01.31-09.26.23:935][ 52]LightingResults: New page: Lighting Build
+[2021.01.31-09.26.23:955][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-09.26.23:959][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.31-09.26.23:973][ 52]LogAIModule: Creating AISystem for world Untitled
+[2021.01.31-09.26.23:976][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.31-09.26.24:063][ 52]LoadErrors: New page: New Map
+[2021.01.31-09.26.24:337][ 52]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2021.01.31-09.26.24:345][ 52]Cmd: MAP LOAD FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-09.26.24:345][ 52]LightingResults: New page: Lighting Build
+[2021.01.31-09.26.24:345][ 52]LoadErrors: New page: Loading map: Level1.umap
+[2021.01.31-09.26.24:345][ 52]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.26.24:345][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.26.24:345][ 52]MapCheck: New page: Map Check
+[2021.01.31-09.26.24:345][ 52]LightingResults: New page: Lighting Build
+[2021.01.31-09.26.24:366][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-09.26.24:368][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.31-09.26.24:369][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.01.31-09.26.24:491][ 52]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-09.26.24:491][ 52]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.26.24:507][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-09.26.24:513][ 52]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-09.26.24:513][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2021.01.31-09.26.24:513][ 52]LogFileHelpers: Loading map 'Level1' took 0.169
+[2021.01.31-09.26.24:638][ 53]LogConcert: Display: Synced activity '27' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.26.24:699][ 53]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Levels/Level1_BuiltData
+[2021.01.31-09.26.24:767][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.31-09.26.25:283][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.31-09.33.56:667][944]LogConcert: Display: Synced activity '28' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.34.00:777][406]LogSlate: Took 0.015011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-09.34.04:987][687]LogConcert: Display: Synced activity '29' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.34.07:145][848]LogConcert: Display: Synced activity '30' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_0 in /Game/Levels/Level1.
+[2021.01.31-09.34.12:052][181]LogConcert: Display: Synced activity '31' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_3 in /Game/Levels/Level1.
+[2021.01.31-09.34.25:529][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.34.25:547][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.01.31-09.34.25:623][310]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1DD3607A348E1D3D8144D86ABE71118F4.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.34.25:660][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.34.25:746][310]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltData41DBE92C4A4348EFADEFE790F7D7CBFF.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.34.25:826][310]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.34.25:826][310]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.34.25:827][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.34.25:936][311]LogConcert: Display: Synced activity '32' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.34.26:250][333]LogConcert: Display: Synced activity '33' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.34.51:819][285]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.31-09.35.01:538][350]LogConcert: Display: Synced activity '34' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked SpotLight_1.LightComponent0 in /Game/Levels/Level1, plus 1 other resource.
+[2021.01.31-09.35.06:364][800]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-09.35.13:790][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.35.13:805][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.01.31-09.35.13:843][647]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1953425DA4A21B59529E606B671A95DE0.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.35.13:875][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.35.13:966][647]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltData372EA5304FCB97B807688D80ABE72F14.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.35.14:039][647]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.35.14:039][647]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.35.14:039][647]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.35.14:073][648]LogConcert: Display: Synced activity '35' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.35.14:449][680]LogConcert: Display: Synced activity '36' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.35.21:593][490]LogConcert: Display: Synced activity '37' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.22:663][606]LogConcert: Display: Synced activity '38' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.28:665][309]LogConcert: Display: Synced activity '39' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya discarded changes to package /Game/Levels/UEDPIE_0_Level1.
+[2021.01.31-09.35.33:553][744]LogConcert: Display: Synced activity '40' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.36:930][  6]LogConcert: Display: Synced activity '41' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_4 in /Game/Levels/Level1.
+[2021.01.31-09.35.43:700][548]LogConcert: Display: Synced activity '42' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.46:386][766]LogConcert: Display: Synced activity '43' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.52:461][203]LogConcert: Display: Synced activity '44' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_5 in /Game/Levels/Level1.
+[2021.01.31-09.35.53:426][278]LogConcert: Display: Synced activity '45' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.35.56:635][515]LogConcert: Display: Synced activity '46' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_6 in /Game/Levels/Level1.
+[2021.01.31-09.36.03:478][ 48]LogConcert: Display: Synced activity '47' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.06:963][327]LogConcert: Display: Synced activity '48' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_7 in /Game/Levels/Level1.
+[2021.01.31-09.36.09:591][519]LogConcert: Display: Synced activity '49' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.10:145][551]LogConcert: Display: Synced activity '50' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.10:591][588]LogConcert: Display: Synced activity '51' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.10:656][593]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush6)
+[2021.01.31-09.36.11:495][659]LogConcert: Display: Synced activity '52' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.12:383][733]LogConcert: Display: Synced activity '53' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.16:680][ 44]LogConcert: Display: Synced activity '54' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_8 in /Game/Levels/Level1.
+[2021.01.31-09.36.22:367][489]LogConcert: Display: Synced activity '55' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.36.25:066][701]LogConcert: Display: Synced activity '56' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan created Polys_9 in /Game/Levels/Level1.
+[2021.01.31-09.36.36:810][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.36.36:825][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.01.31-09.36.36:878][635]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level14B9307A549991B6786F95A828E2694CB.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.36.36:912][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.36.36:953][635]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltData55903BB64A35282DCDE5C6B2F6063A3C.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.36.37:027][635]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.36.37:027][635]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.36.37:027][635]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.36.37:084][636]LogConcert: Display: Synced activity '57' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.36.37:474][671]LogConcert: Display: Synced activity '58' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.36.39:779][884]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-09.36.39:787][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-09.36.39:787][884]PIE: New page: PIE session: Level1 (31 янв. 2021 г., 15:36:39)
+[2021.01.31-09.36.39:787][884]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.36.39:799][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011397s)
+[2021.01.31-09.36.39:800][884]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.36.39:800][884]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2021.01.31-09.36.39:800][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.013042s)
+[2021.01.31-09.36.39:818][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.31-09.36.39:820][884]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-09.36.39:820][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-09.36.39:820][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-09.36.39:821][884]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-09.36.39:821][884]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-09.36.39:828][884]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-09.36.39:828][884]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-09.36.39:857][884]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.01.31-09.36.39:857][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-09.36.39:857][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-09.36.39:857][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-09.36.39:858][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-09.36.39:858][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-09.36.39:858][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-09.36.39:885][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-09.36.39:885][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-09.36.39:885][884]LogInit: FAudioDevice initialized.
+[2021.01.31-09.36.39:885][884]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.01.31-09.36.39:896][884]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.31-09.36.39:899][884]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.31-12.36.39
+[2021.01.31-09.36.39:899][884]LogWorld: Bringing up level for play took: 0.002494
+[2021.01.31-09.36.39:900][884]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.31-09.36.39:903][884]PIE: Server logged in
+[2021.01.31-09.36.39:904][884]PIE: Play in editor total start time 0,118 seconds.
+[2021.01.31-09.36.50:197][100]LogNet: Browse: /Game/Levels/Level1
+[2021.01.31-09.36.50:197][100]LogLoad: LoadMap: /Game/Levels/Level1
+[2021.01.31-09.36.50:197][100]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.36.50:198][100]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.36.50:198][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.36.50:241][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-09.36.50:245][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.31-09.36.50:247][100]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.36.50:258][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011355s)
+[2021.01.31-09.36.50:259][100]LogAIModule: Creating AISystem for world Level1
+[2021.01.31-09.36.50:259][100]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2021.01.31-09.36.50:259][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.012810s)
+[2021.01.31-09.36.50:259][100]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.01.31-09.36.50:260][100]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.31-09.36.50:262][100]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.01.31-12.36.50
+[2021.01.31-09.36.50:262][100]LogWorld: Bringing up level for play took: 0.002029
+[2021.01.31-09.36.50:264][100]LogLoad: Took 0.067092 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2021.01.31-09.37.27:839][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.37.27:839][572]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2021.01.31-09.37.27:839][572]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.37.27:840][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.37.27:875][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-09.37.27:893][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.37.27:903][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-09.37.27:903][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-09.37.27:904][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-09.37.27:936][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-09.37.27:997][573]LogConcert: Display: Synced activity '59' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan discarded changes to package /Game/Levels/UEDPIE_0_Level1.
+[2021.01.31-09.37.27:999][573]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.31-09.37.29:516][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.37.29:537][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.31-09.37.29:572][741]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1E30C0C374921EDA2E81F76A923DF9EB9.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.37.29:609][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.37.29:660][741]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltDataD5BDEE544F7E881FCF7FCDB0D2949B4F.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.37.29:729][741]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.37.29:730][741]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.37.29:730][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.37.29:787][742]LogConcert: Display: Synced activity '60' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.37.30:150][773]LogConcert: Display: Synced activity '61' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.37.33:732][163]LogEditorViewport: Clicking Background
+[2021.01.31-09.37.36:072][429]LogConcert: Display: Synced activity '62' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.37.42:729][999]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.31-09.37.42:865][  7]LogConcert: Display: Synced activity '63' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.38.06:115][793]LogConcert: Display: Synced activity '64' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified BoxBrush6.Model_0.Polys_0 in /Game/Levels/Level1.
+[2021.01.31-09.38.07:642][965]LogEditorViewport: Clicking Background
+[2021.01.31-09.38.07:782][976]LogConcert: Display: Synced activity '65' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.38.13:906][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.38.13:921][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.01.31-09.38.13:992][699]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1C813CD9B466BF8AE86E30EB8D6E559B4.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.38.14:024][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.38.14:078][699]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltDataBBB0A6004ADB4124C9AB57B0D6C053D1.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.38.14:150][699]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.38.14:150][699]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.38.14:150][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.38.14:178][700]LogConcert: Display: Synced activity '66' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.38.14:559][735]LogConcert: Display: Synced activity '67' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn_C' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:InpAxisEvt_Move Forward/Backward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:InpAxisEvt_Move Left/Right_K2Node_InputAxisEvent_1' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.SKEL_BP_PlayerPawn_C' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:480][320]LogMetaData: Removing '/Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_PlayerPawn.PackageMetaData'
+[2021.01.31-09.40.09:575][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_PlayerPawn" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/Actors/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.31-09.40.09:678][320]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_PlayerPawn547E2B164BDBDE53AB7918849CF987C6.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/Actors/BP_PlayerPawn.uasset'
+[2021.01.31-09.40.09:693][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.31-09.40.09:717][320]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_PlayerPawn24126FF045269A325A34D2A40F758369.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.31-09.40.09:786][320]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.40.09:786][320]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.31-09.40.09:787][320]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.31-09.40.09:787][320]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayerPawn.Default__BP_PlayerPawn_C
+[2021.01.31-09.40.09:787][320]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn_C
+[2021.01.31-09.40.09:804][321]LogConcert: Display: Synced activity '68' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/BP_PlayerPawn.
+[2021.01.31-09.40.09:805][321]LogConcert: Display: Synced activity '69' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/Actors/BP_PlayerPawn.
+[2021.01.31-09.40.09:805][321]LogConcert: Display: Synced activity '70' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/BP_GameMOde.
+[2021.01.31-09.40.09:823][321]LogConcert: Display: Synced activity '71' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Blueprints/Actors/BP_PlayerPawn.
+[2021.01.31-09.40.09:824][321]LogConcert: Display: Synced activity '72' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/Actors/BP_PlayerPawn.
+[2021.01.31-09.40.09:825][321]LogConcert: Display: Synced activity '73' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan renamed package /Game/Blueprints/BP_PlayerPawn to /Game/Blueprints/Actors/BP_PlayerPawn.
+[2021.01.31-09.40.09:825][321]LogConcert: Display: Synced activity '74' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/BP_PlayerPawn.
+[2021.01.31-09.40.13:927][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:927][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:928][728]LogMetaData: Removing '/Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2021.01.31-09.40.13:975][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Collectiables/BP_Crystal" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/Collectiables/BP_Crystal.uasset" SILENT=true
+[2021.01.31-09.40.13:988][728]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_Crystal17B5D66741709FE281F6D5B8A9419194.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/Collectiables/BP_Crystal.uasset'
+[2021.01.31-09.40.14:000][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Crystal" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_Crystal.uasset" SILENT=true
+[2021.01.31-09.40.14:017][728]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_CrystalF0792A7F4628DE4F6F2D9BA224954781.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_Crystal.uasset'
+[2021.01.31-09.40.14:072][728]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.40.14:072][728]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Collectiables/BP_Crystal.BP_Crystal
+[2021.01.31-09.40.14:072][728]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.BP_Crystal
+[2021.01.31-09.40.14:072][728]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.Default__BP_Crystal_C
+[2021.01.31-09.40.14:072][728]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.BP_Crystal_C
+[2021.01.31-09.40.14:099][729]LogConcert: Display: Synced activity '75' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/BP_Crystal.
+[2021.01.31-09.40.14:099][729]LogConcert: Display: Synced activity '76' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.40.14:114][729]LogConcert: Display: Synced activity '77' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.40.14:114][729]LogConcert: Display: Synced activity '78' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.40.14:116][729]LogConcert: Display: Synced activity '79' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan renamed package /Game/Blueprints/BP_Crystal to /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.40.14:116][729]LogConcert: Display: Synced activity '80' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/BP_Crystal.
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger_C' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C:BndEvt__Trigger_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:080][499]LogMetaData: Removing '/Game/Blueprints/Triggers/BP_LevelRestartTrigger.SKEL_BP_LevelRestartTrigger_C' ref from Metadata '/Game/Blueprints/BP_LevelRestartTrigger.PackageMetaData'
+[2021.01.31-09.40.31:112][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Triggers/BP_LevelRestartTrigger" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/Triggers/BP_LevelRestartTrigger.uasset" SILENT=true
+[2021.01.31-09.40.31:160][499]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_LevelRestartTrigger9AF1E37C49C60E32132D4A988B7F5AE3.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/Triggers/BP_LevelRestartTrigger.uasset'
+[2021.01.31-09.40.31:171][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LevelRestartTrigger" FILE="../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_LevelRestartTrigger.uasset" SILENT=true
+[2021.01.31-09.40.31:173][499]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/BP_LevelRestartTrigger69D63FFE498E361ED6141ABB42E02C25.tmp' to '../../../../../Unreal/CrystalCavern/Content/Blueprints/BP_LevelRestartTrigger.uasset'
+[2021.01.31-09.40.31:230][499]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.40.31:230][499]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Triggers/BP_LevelRestartTrigger.BP_LevelRestartTrigger
+[2021.01.31-09.40.31:230][499]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_LevelRestartTrigger.BP_LevelRestartTrigger
+[2021.01.31-09.40.31:230][499]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_LevelRestartTrigger.Default__BP_LevelRestartTrigger_C
+[2021.01.31-09.40.31:230][499]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_LevelRestartTrigger.BP_LevelRestartTrigger_C
+[2021.01.31-09.40.31:239][500]LogConcert: Display: Synced activity '81' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/BP_LevelRestartTrigger.
+[2021.01.31-09.40.31:239][500]LogConcert: Display: Synced activity '82' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan locked /Game/Blueprints/Triggers/BP_LevelRestartTrigger.
+[2021.01.31-09.40.31:247][500]LogConcert: Display: Synced activity '83' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Blueprints/Triggers/BP_LevelRestartTrigger.
+[2021.01.31-09.40.31:248][500]LogConcert: Display: Synced activity '84' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/Triggers/BP_LevelRestartTrigger.
+[2021.01.31-09.40.31:249][500]LogConcert: Display: Synced activity '85' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan renamed package /Game/Blueprints/BP_LevelRestartTrigger to /Game/Blueprints/Triggers/BP_LevelRestartTrigger.
+[2021.01.31-09.40.31:250][500]LogConcert: Display: Synced activity '86' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan unlocked /Game/Blueprints/BP_LevelRestartTrigger.
+[2021.01.31-09.40.33:989][768]LogConcert: Display: Synced activity '87' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan modified None in None, plus -1 other action.
+[2021.01.31-09.40.35:283][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-09.40.35:299][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.31-09.40.35:356][917]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1B34CF067414892C621A04293BC2B76C3.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1.umap'
+[2021.01.31-09.40.35:390][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.01.31-09.40.35:447][917]LogSavePackage: Moving '../../../../../Unreal/CrystalCavern/Saved/Level1_BuiltDataEBA699F944AA55A442BB059727F8C16B.tmp' to '../../../../../Unreal/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.01.31-09.40.35:517][917]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-09.40.35:517][917]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.01.31-09.40.35:517][917]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.01.31-09.40.35:547][918]LogConcert: Display: Synced activity '88' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1.
+[2021.01.31-09.40.35:959][953]LogConcert: Display: Synced activity '89' produced by endpoint 'BB5EFF9B4E53E757B8E0448718693E82': Oshugan saved package /Game/Levels/Level1_BuiltData.
+[2021.01.31-09.41.19:439][ 23]LogConcert: Display: Synced activity '90' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya locked /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.41.19:439][ 23]LogConcert: Display: Synced activity '91' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya locked /Game/Blueprints/Collectables/BP_Crystal.
+[2021.01.31-09.41.19:620][ 42]LogConcert: Display: Synced activity '92' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya saved package /Game/Blueprints/Collectables/BP_Crystal.
+[2021.01.31-09.41.19:623][ 42]LogConcert: Display: Synced activity '93' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya unlocked /Game/Blueprints/Collectables/BP_Crystal.
+[2021.01.31-09.41.19:624][ 42]LogConcert: Display: Synced activity '94' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya renamed package /Game/Blueprints/Collectiables/BP_Crystal to /Game/Blueprints/Collectables/BP_Crystal.
+[2021.01.31-09.41.19:626][ 42]LogConcert: Display: Synced activity '95' produced by endpoint '3C2BD2FB477DFCB87BAE5492C4DAB194': Vrednaya unlocked /Game/Blueprints/Collectiables/BP_Crystal.
+[2021.01.31-09.41.19:628][ 42]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Blueprints/Collectiables/BP_Crystal
+[2021.01.31-09.41.19:665][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.31-09.41.19:672][ 42]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Collectiables/BP_Crystal.SKEL_BP_Crystal_C'
+[2021.01.31-09.41.19:673][ 42]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BP_Crystal_C' in the new package '/Game/Blueprints/Collectiables/BP_Crystal'. Any existing references to this object will be nulled out.
+[2021.01.31-09.41.19:673][ 42]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Default__BP_Crystal_C' in the new package '/Game/Blueprints/Collectiables/BP_Crystal'. Any existing references to this object will be nulled out.
+[2021.01.31-09.41.19:673][ 42]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'SKEL_BP_Crystal_C' (transient) in the new package '/Game/Blueprints/Collectiables/BP_Crystal'. Any existing references to this object will be nulled out.
+[2021.01.31-09.41.19:673][ 42]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__SKEL_BP_Crystal_C' (transient) in the new package '/Game/Blueprints/Collectiables/BP_Crystal'. Any existing references to this object will be nulled out.
+[2021.01.31-09.41.19:673][ 42]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BP_Crystal' in the new package '/Game/Blueprints/Collectiables/BP_Crystal'. Any existing references to this object will be nulled out.
+[2021.01.31-09.41.19:904][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.31-09.41.19:905][ 42]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/Blueprints/Collectiables/BP_Crystal_DEADPACKAGE_3'. This is unexpected, and likely means that it was still externally referenced.
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display: ReloadPackage external references for '/Game/Blueprints/Collectiables/BP_Crystal_DEADPACKAGE_3'.
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     DefaultPhysicsVolume /Game/Levels/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     World /Game/Levels/Level1.Level1
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     AbstractNavData /Game/Levels/Level1.Level1:PersistentLevel.AbstractNavData-Default
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/Levels/Level1.Level1:NavigationSystemV1_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     CrowdManager /Game/Levels/Level1.Level1:NavigationSystemV1_0.CrowdManager_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     DefaultPhysicsVolume /Game/Levels/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     World /Game/Levels/Level1.Level1
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     DefaultPhysicsVolume /Game/Levels/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     World /Game/Levels/Level1.Level1
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     AbstractNavData /Game/Levels/Level1.Level1:PersistentLevel.AbstractNavData-Default
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/Levels/Level1.Level1:NavigationSystemV1_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     CrowdManager /Game/Levels/Level1.Level1:NavigationSystemV1_0.CrowdManager_0
+[2021.01.31-09.41.20:092][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     AbstractNavData /Game/Levels/Level1.Level1:PersistentLevel.AbstractNavData-Default
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/Levels/Level1.Level1:NavigationSystemV1_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     CrowdManager /Game/Levels/Level1.Level1:NavigationSystemV1_0.CrowdManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     DefaultPhysicsVolume /Game/Levels/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Game/Levels/Level1.Level1
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     AbstractNavData /Game/Levels/Level1.Level1:PersistentLevel.AbstractNavData-Default
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/Levels/Level1.Level1:NavigationSystemV1_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     CrowdManager /Game/Levels/Level1.Level1:NavigationSystemV1_0.CrowdManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     DefaultPhysicsVolume /Game/Levels/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Game/Levels/Level1.Level1
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.01.31-09.41.20:093][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Game/Levels/Level1.Level1:PersistentLevel.Crystal_2
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     Level /Game/Levels/Level1.Level1:PersistentLevel
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     AbstractNavData /Game/Levels/Level1.Level1:PersistentLevel.AbstractNavData-Default
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/Levels/Level1.Level1:NavigationSystemV1_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     CrowdManager /Game/Levels/Level1.Level1:NavigationSystemV1_0.CrowdManager_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     BP_Crystal_C /Engine/Transient.World_2:PersistentLevel.BP_Crystal_C_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     Level /Engine/Transient.World_2:PersistentLevel
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_0
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     World /Engine/Transient.World_2
+[2021.01.31-09.41.20:094][ 42]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.01.31-09.48.50:915][357]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.01.31-09.48.50:929][357]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.01.31-09.49.47:055][893]LogConcert: Display: User 'vredn' (Endpoint: 3C2BD2FB477DFCB87BAE5492C4DAB194) left Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.49.47:055][893]LogConcert: Display: Disconnected from Concert session 'OshiCrystalCavern' (Id: 1B43718D4949DB4B5D867DA5D8C6CB93, Owner: garaa).
+[2021.01.31-09.49.47:056][893]SourceControl: Source control is disabled
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/Engine/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/CrystalCavern/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/Paper2D/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/AnimationSharing/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/GeometryMode/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/SpeedTreeImporter/' was aborted.
+[2021.01.31-09.49.47:088][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/DatasmithContent/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/ChaosNiagara/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/ChaosClothEditor/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/ChaosSolverPlugin/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/Niagara/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/GeometryProcessing/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/MotoSynth/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/MagicLeap/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/MediaCompositing/' was aborted.
+[2021.01.31-09.49.47:089][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/AudioSynesthesia/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/PostSplashScreen/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/Synthesis/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/MultiUserTakes/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/Takes/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/OculusVR/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/SteamVR/' was aborted.
+[2021.01.31-09.49.47:090][893]LogDirectoryWatcher: A directory notification for 'F:/Unreal/CrystalCavern/Intermediate/Concert/MultiUser/53BEAFCD4B43B6A4A4E37A90E4264EB9/1B43718D4949DB4B5D867DA5D8C6CB93/Sandbox/ConcertSyncClient/' was aborted.
+[2021.01.31-09.49.47:119][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.31-09.49.47:123][893]LightingResults: New page: Lighting Build
+[2021.01.31-09.49.47:124][893]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-09.49.47:124][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-09.49.47:124][893]MapCheck: New page: Map Check
+[2021.01.31-09.49.47:124][893]LightingResults: New page: Lighting Build
+[2021.01.31-09.49.47:139][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-09.49.47:143][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.31-09.49.47:145][893]LogAIModule: Creating AISystem for world Untitled
+[2021.01.31-09.49.47:146][893]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.31-09.49.47:219][893]LoadErrors: New page: New Map
