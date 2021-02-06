@@ -707,3 +707,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-11.07.31:581][136]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.06-11.07.31:582][136]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
 [2021.02.06-11.07.31:582][136]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.02.06-11.10.06:081][694]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (BP_Cannon5)
+[2021.02.06-11.23.07:254][594]Cmd: TRANSACTION UNDO
+[2021.02.06-11.23.07:254][594]LogEditorTransaction: Undo Move Actors
+[2021.02.06-11.23.07:278][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_96' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:278][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_96.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:278][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_97' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:278][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_97.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:279][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_98' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:279][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_98.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:288][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_99' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:288][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_99.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:288][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_100' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:288][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_100.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:295][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_101' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:295][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_101.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:295][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_102' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:295][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_102.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_103' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_103.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_104' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_104.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_105' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:302][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_105.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:315][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_106' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:315][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_106.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_107' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_107.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_108' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_108.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_109' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_109.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_110' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:323][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_110.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.07:324][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_111' invalid (916 verts, 0 indices).
+[2021.02.06-11.23.07:324][594]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_111.BodySetup_0 when we are unable to.
+[2021.02.06-11.23.10:298][799]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.02.06-11.23.23:416][ 66]Cmd: TRANSACTION UNDO
+[2021.02.06-11.23.23:416][ 66]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.06-11.23.25:291][177]Cmd: TRANSACTION UNDO
+[2021.02.06-11.23.25:291][177]LogEditorTransaction: Undo Move Actors
+[2021.02.06-11.23.26:311][234]Cmd: TRANSACTION UNDO
+[2021.02.06-11.23.26:311][234]LogEditorTransaction: Undo Move Actors
+[2021.02.06-11.23.27:022][268]Cmd: TRANSACTION UNDO
+[2021.02.06-11.23.27:022][268]LogEditorTransaction: Undo Move Actors
+[2021.02.06-11.23.40:379][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../CrystalCavern/CrystalCavern/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.06-11.23.40:405][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.06-11.23.40:462][422]LogSavePackage: Moving '../../../../CrystalCavern/CrystalCavern/Saved/Level1FE2FD53A415077AADACE598A2E97C373.tmp' to '../../../../CrystalCavern/CrystalCavern/Content/Levels/Level1.umap'
+[2021.02.06-11.23.40:471][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../CrystalCavern/CrystalCavern/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2021.02.06-11.23.40:513][422]LogSavePackage: Moving '../../../../CrystalCavern/CrystalCavern/Saved/Level1_BuiltData017FC2BB4485AD0BFEB2578399430854.tmp' to '../../../../CrystalCavern/CrystalCavern/Content/Levels/Level1_BuiltData.uasset'
+[2021.02.06-11.23.40:527][422]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-11.23.40:527][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.02.06-11.23.40:527][422]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
