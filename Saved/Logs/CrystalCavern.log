@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 02/06/21 14:11:30
+=======
+﻿Log file open, 02/05/21 15:14:27
+>>>>>>> parent of fa2fa5b... light
 =======
 ﻿Log file open, 02/05/21 15:14:27
 >>>>>>> parent of fa2fa5b... light
@@ -9,7 +13,11 @@ LogInit: Display: Running engine for game: CrystalCavern
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.480532
+=======
+LogStats: Stats thread started at 11.678548
+>>>>>>> parent of fa2fa5b... light
 =======
 LogStats: Stats thread started at 11.678548
 >>>>>>> parent of fa2fa5b... light
@@ -19,7 +27,10 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin LightPropagationVolume
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+>>>>>>> parent of fa2fa5b... light
 =======
 >>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin Paper2D
@@ -32,9 +43,22 @@ LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin AISupport
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
+=======
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+>>>>>>> parent of fa2fa5b... light
 =======
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin MacGraphicsSwitching
@@ -55,6 +79,7 @@ LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
@@ -81,6 +106,10 @@ LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin UObjectPlugin
 >>>>>>> parent of fa2fa5b... light
+=======
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin AlembicImporter
@@ -88,18 +117,25 @@ LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosEditor
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+<<<<<<< HEAD
+>>>>>>> parent of fa2fa5b... light
+=======
 >>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryProcessing
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin MotoSynth
@@ -120,10 +156,20 @@ LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin MotoSynth
+=======
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -143,17 +189,29 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin SkeletalReduction
+=======
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystem
 =======
+=======
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< HEAD
 >>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin LauncherChunkInstaller
@@ -173,6 +231,17 @@ LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 >>>>>>> parent of fa2fa5b... light
+=======
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
@@ -183,7 +252,11 @@ LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin ChunkDownloader
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin EditableMesh
+=======
+LogPluginManager: Mounting plugin CustomMeshComponent
+>>>>>>> parent of fa2fa5b... light
 =======
 LogPluginManager: Mounting plugin CustomMeshComponent
 >>>>>>> parent of fa2fa5b... light
@@ -194,6 +267,7 @@ LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
@@ -220,13 +294,29 @@ LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 >>>>>>> parent of fa2fa5b... light
+=======
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin MultiUserTakes
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of fa2fa5b... light
 LogPluginManager: Mounting plugin ConcertMain
 LogPluginManager: Mounting plugin MultiUserClient
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
@@ -238,7 +328,10 @@ LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin ConcertSyncCore
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ConcertSyncClient
+=======
+>>>>>>> parent of fa2fa5b... light
 =======
 >>>>>>> parent of fa2fa5b... light
 LogXGEController: Cleaning working directory: C:/Users/garaa/AppData/Local/Temp/UnrealXGEWorkingDir/
@@ -326,6 +419,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.02.06-11.11.31:236][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.02.06-11.11.31:236][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1503,6 +1597,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-11.19.21:150][ 54]LogExit: Exiting.
 [2021.02.06-11.19.21:162][ 54]Log file closed, 02/06/21 14:19:21
 =======
+=======
+>>>>>>> parent of fa2fa5b... light
 [2021.02.05-12.14.33:529][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.02.05-12.14.33:529][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.02.05-12.14.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal/CrystalCavern/Saved/Config/Windows/Engine.ini]
@@ -2651,4 +2747,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.05-12.38.58:809][181]LogD3D11RHI: CleanupD3DDevice
 [2021.02.05-12.38.58:926][181]LogExit: Exiting.
 [2021.02.05-12.38.58:937][181]Log file closed, 02/05/21 15:38:58
+<<<<<<< HEAD
+>>>>>>> parent of fa2fa5b... light
+=======
 >>>>>>> parent of fa2fa5b... light
